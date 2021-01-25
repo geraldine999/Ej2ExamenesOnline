@@ -67,6 +67,7 @@ public class Main {
         //pablo corrige el examen
         pablo.corregirExamen(examenFinal, 9.0);
 
+
         //veo si se cambio la nota
         System.out.println("La nota de Geraldine es de " + examenFinal.getNota());
 

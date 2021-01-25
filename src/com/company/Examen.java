@@ -26,7 +26,7 @@ public class Examen {
     }
 
     public void setNota(Double nota) {
-        this.nota = this.nota;
+        this.nota = nota;
     }
 
 
